@@ -1,0 +1,1 @@
+Olá! Este é o meu primeiro projeto. Desenvolvi um jogo de adivinhação utilizando funções básicas como IF, ELIF, ELSE, BREAK e CONTINUE.
